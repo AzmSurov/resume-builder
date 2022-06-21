@@ -1,0 +1,10 @@
+.container {
+
+        padding-top: 96px;
+        padding-bottom: 96px;
+        background-color: #05060f;
+        color: #fff;
+        font-size: 2em;
+        text-align: center;
+        opacity: 0.9;
+}
